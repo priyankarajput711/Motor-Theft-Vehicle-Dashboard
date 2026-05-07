@@ -150,6 +150,7 @@ NZ-Stolen-Vehicle-Dashboard/
 - Communicating insight narratives alongside visualisations — not leaving the interpretation to the viewer
 - Applying real analytical frameworks (80/20 rule, per-capita risk indexing) to a domain dataset
 
-
-
+##📬 Contact
+Priyanka Rajput
+Data Analyst | www.linkedin.com/in/priyanka-rajput1
 
