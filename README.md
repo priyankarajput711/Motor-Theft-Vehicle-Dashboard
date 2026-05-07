@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Summary
+## 📌 Dashboard Summary
 
 This dashboard was built to go beyond surface-level crime reporting. Rather than simply visualising stolen vehicle counts, the solution applies **per-capita normalisation, Pareto classification, rolling average trend lines, and a composite Risk Score model** to surface insights that raw counts systematically hide.
 
