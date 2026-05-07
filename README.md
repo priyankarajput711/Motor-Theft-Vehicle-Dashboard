@@ -153,7 +153,7 @@ NZ-Stolen-Vehicle-Dashboard/
 
 ## 📬 Contact
 
-Priyanka Rajput  
-Data Analyst | www.linkedin.com/in/priyanka-rajput1
+[Priyanka Rajput](www.linkedin.com/in/priyanka-rajput1)
+Data Analyst
 
 
