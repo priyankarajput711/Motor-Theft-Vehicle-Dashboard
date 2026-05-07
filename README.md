@@ -150,15 +150,6 @@ NZ-Stolen-Vehicle-Dashboard/
 - Communicating insight narratives alongside visualisations — not leaving the interpretation to the viewer
 - Applying real analytical frameworks (80/20 rule, per-capita risk indexing) to a domain dataset
 
----
 
-## 📬 Contact
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
 
----
-
-## 📌 Tags
-
-`Power BI` `DAX` `Data Analytics` `Crime Analytics` `Business Intelligence` `Dashboard Design` `Power Query` `Time Series Analysis` `New Zealand` `Vehicle Theft`
